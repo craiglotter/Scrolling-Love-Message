@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Liz Love Message">
+</Property><Property Name="Solution File" Value="C:\Work Projects\Completed Projects\Scrolling Love Message - 28 June 2005\Source Code\Liz Love Message\Liz Love Message.sln">
+</Property><Property Name="User Options File" Value="C:\Work Projects\Completed Projects\Scrolling Love Message - 28 June 2005\Source Code\Liz Love Message\Liz Love Message.suo">
+</Property><Property Name="Date" Value="11 July 2007">
+</Property><Property Name="Time" Value="09:34 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Liz Love Message.sln" Description="File successfully backed up as C:\Work Projects\Completed Projects\Scrolling Love Message - 28 June 2005\Source Code\Liz Love Message\Backup\Liz Love Message.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Liz Love Message.suo" Description="File successfully backed up as C:\Work Projects\Completed Projects\Scrolling Love Message - 28 June 2005\Source Code\Liz Love Message\Backup\Liz Love Message.suo">
+</Event><Event ErrorLevel="0" Project="Liz Love Message" Source="Liz Love Message.vbproj" Description="Project file successfully backed up as C:\Work Projects\Completed Projects\Scrolling Love Message - 28 June 2005\Source Code\Liz Love Message\Backup\Liz Love Message.vbproj">
+</Event><Event ErrorLevel="0" Project="Liz Love Message" Source="Liz Love Message.vbproj.user" Description="Project user file successfully backed up as C:\Work Projects\Completed Projects\Scrolling Love Message - 28 June 2005\Source Code\Liz Love Message\Backup\Liz Love Message.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Liz Love Message" Source="AssemblyInfo.vb" Description="File successfully backed up as C:\Work Projects\Completed Projects\Scrolling Love Message - 28 June 2005\Source Code\Liz Love Message\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Liz Love Message" Source="Main_Screen.vb" Description="File successfully backed up as C:\Work Projects\Completed Projects\Scrolling Love Message - 28 June 2005\Source Code\Liz Love Message\Backup\Main_Screen.vb">
+</Event><Event ErrorLevel="0" Project="Liz Love Message" Source="app.config" Description="File successfully backed up as C:\Work Projects\Completed Projects\Scrolling Love Message - 28 June 2005\Source Code\Liz Love Message\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="Liz Love Message" Source="Application_Icon.ico" Description="File successfully backed up as C:\Work Projects\Completed Projects\Scrolling Love Message - 28 June 2005\Source Code\Liz Love Message\Backup\Application_Icon.ico">
+</Event><Event ErrorLevel="0" Project="Liz Love Message" Source="Main_Screen.resx" Description="File successfully backed up as C:\Work Projects\Completed Projects\Scrolling Love Message - 28 June 2005\Source Code\Liz Love Message\Backup\Main_Screen.resx">
+</Event><Event ErrorLevel="0" Project="Liz Love Message" Source="Liz Love Message.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Liz Love Message" Source="Liz Love Message.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Liz Love Message.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Liz Love Message.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Liz Love Message" Source="app.config" Description="File converted successfully. All &lt;supportedRuntime&gt; and &lt;requiredRuntime&gt; tags were removed to enable the project to build and run with Visual Studio 2005.">
+</Event><Event ErrorLevel="3" Project="Liz Love Message" Source="app.config" Description="Converted">
+</Event></UpgradeLog>
